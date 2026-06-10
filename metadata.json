@@ -1,0 +1,6 @@
+{
+  "name": "JLPT N4 Quiz",
+  "description": "Interactive Japanese Language Proficiency Test N4 Quiz with full Kanji, Vocabulary, and Grammar mock exams, customized timer, real-time feedback, progress tracking, and score summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
